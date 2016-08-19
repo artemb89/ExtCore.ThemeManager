@@ -1,6 +1,8 @@
 ﻿{
   "version": "1.0.0-alpha1",
-
+  "authors": [ "Artem Baranov" ],
+  "copyright": "Copyright © 2016 Artem Baranov",
+  "description": "Theme Manager for ExtCore.",
   "dependencies": {
     "NETStandard.Library": "1.6.0",
     "ExtCore.Infrastructure": "1.0.0-alpha16",
